@@ -1,0 +1,36 @@
+{
+  "bindings": [],
+  "children": [
+    {
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "c1",
+      "nodeName": "c1",
+      "ownerId": "6afcfdef6c811e5b82c82499",
+      "ownerType": "component",
+      "resourceIdentity": "components/c1",
+      "type": "custom-component"
+    },
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    }
+  ],
+  "modules": [],
+  "name": "g1-132-dev-gh",
+  "styles": [],
+  "type": "component",
+  "variables": []
+}
